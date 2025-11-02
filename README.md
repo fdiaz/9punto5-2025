@@ -1,2 +1,4 @@
-# 9punto5-2026
-Charla "Inteligencia Artificial en PedidosYa - Un enfoque pragmático" - 9punto5 2025
+# Inteligencia Artificial en PedidosYa - Un enfoque pragmático
+
+_[Presentado en 9punto5](https://9punto5.cl/) el 7 de Octubre, 2025 usando [Deckset](http://www.decksetapp.com)._
+
