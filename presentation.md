@@ -1,5 +1,5 @@
 #### _Inteligencia Artificial en PedidosYa_
-## _Una mirada pragmática_
+## _una mirada pragmática_
 
 ^ Agradecerle a Fabian, Felipe y Nela por la organización de este evento.
 
@@ -74,9 +74,9 @@
 
 ---
 
-## _1. ¿De donde venimos?_
+### _1. ¿De donde venimos?_
 
-![inline](img/chile.jpg)
+![inline 700%](img/chile.jpg)
 
 ---
 
@@ -150,7 +150,7 @@
 ---
 
 
-# Jeopardy category: US Cities
+# [fit] Jeopardy category: US Cities
 
 ![inline](img/toronto.png)
 
@@ -178,7 +178,7 @@
 # [fit] Don't Believe 
 # [fit] **The Hype**
 
--- Public Enemy 
+- Public Enemy 
 
 ^ Hay mucho headline
 ^ Cuando hablo con ingenieros, lo siento mucho mas aterrizado
@@ -188,9 +188,11 @@
 # [fit] _2. ¿Hacia donde_
 # _vamos?_
 
-### aka jugando al oráculo
+#### jugando al oráculo
 
 ^ Hay tendencias que son relevantes de resaltar
+
+^ Hay que ser muy arrogante para creer que sabemos
 
 ---
 
